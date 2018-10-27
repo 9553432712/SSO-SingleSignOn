@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-security-sso-auth-server (1)" />
+        <module name="spring-security-sso-auth-server (2)" />
+        <module name="spring-security-sso-auth-server (3)" />
+        <module name="spring-security-sso-auth-server (4)" />
+        <module name="spring-security-sso-ui (1)" />
+        <module name="spring-security-sso-ui (2)" />
+        <module name="spring-security-sso-ui (3)" />
+        <module name="spring-security-sso-ui-2 (1)" />
+        <module name="spring-security-sso-ui-2 (2)" />
+        <module name="spring-security-sso-ui-2 (3)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-security-sso" target="1.8" />
+      <module name="spring-security-sso-auth-server (1)" target="1.8" />
+      <module name="spring-security-sso-auth-server (2)" target="1.8" />
+      <module name="spring-security-sso-auth-server (3)" target="1.5" />
+      <module name="spring-security-sso-auth-server (4)" target="1.8" />
+      <module name="spring-security-sso-ui (1)" target="1.8" />
+      <module name="spring-security-sso-ui (2)" target="1.5" />
+      <module name="spring-security-sso-ui (3)" target="1.8" />
+      <module name="spring-security-sso-ui-2 (1)" target="1.8" />
+      <module name="spring-security-sso-ui-2 (2)" target="1.5" />
+      <module name="spring-security-sso-ui-2 (3)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

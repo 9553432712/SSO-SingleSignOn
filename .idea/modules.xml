@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso.iml" filepath="$PROJECT_DIR$/spring-security-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso-auth-server/bin/spring-security-sso-auth-server (1).iml" filepath="$PROJECT_DIR$/spring-security-sso-auth-server/bin/spring-security-sso-auth-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso-auth-server/spring-security-sso-auth-server (2).iml" filepath="$PROJECT_DIR$/spring-security-sso-auth-server/spring-security-sso-auth-server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso-auth-server/target/m2e-wtp/web-resources/META-INF/maven/org.baeldung/spring-security-sso-auth-server/spring-security-sso-auth-server (3).iml" filepath="$PROJECT_DIR$/spring-security-sso-auth-server/target/m2e-wtp/web-resources/META-INF/maven/org.baeldung/spring-security-sso-auth-server/spring-security-sso-auth-server (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso-auth-server/target/m2e-wtp/web-resources/META-INF/maven/org.baeldung/spring-security-sso-auth-server/spring-security-sso-auth-server (4).iml" filepath="$PROJECT_DIR$/spring-security-sso-auth-server/target/m2e-wtp/web-resources/META-INF/maven/org.baeldung/spring-security-sso-auth-server/spring-security-sso-auth-server (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso-ui/spring-security-sso-ui (1).iml" filepath="$PROJECT_DIR$/spring-security-sso-ui/spring-security-sso-ui (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso-ui/target/m2e-wtp/web-resources/META-INF/maven/org.baeldung/spring-security-sso-ui/spring-security-sso-ui (2).iml" filepath="$PROJECT_DIR$/spring-security-sso-ui/target/m2e-wtp/web-resources/META-INF/maven/org.baeldung/spring-security-sso-ui/spring-security-sso-ui (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso-ui/target/m2e-wtp/web-resources/META-INF/maven/org.baeldung/spring-security-sso-ui/spring-security-sso-ui (3).iml" filepath="$PROJECT_DIR$/spring-security-sso-ui/target/m2e-wtp/web-resources/META-INF/maven/org.baeldung/spring-security-sso-ui/spring-security-sso-ui (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso-ui-2/spring-security-sso-ui-2 (1).iml" filepath="$PROJECT_DIR$/spring-security-sso-ui-2/spring-security-sso-ui-2 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso-ui-2/target/m2e-wtp/web-resources/META-INF/maven/org.baeldung/spring-security-sso-ui-2/spring-security-sso-ui-2 (2).iml" filepath="$PROJECT_DIR$/spring-security-sso-ui-2/target/m2e-wtp/web-resources/META-INF/maven/org.baeldung/spring-security-sso-ui-2/spring-security-sso-ui-2 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-sso-ui-2/target/m2e-wtp/web-resources/META-INF/maven/org.baeldung/spring-security-sso-ui-2/spring-security-sso-ui-2 (3).iml" filepath="$PROJECT_DIR$/spring-security-sso-ui-2/target/m2e-wtp/web-resources/META-INF/maven/org.baeldung/spring-security-sso-ui-2/spring-security-sso-ui-2 (3).iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+server:
+    port: 8082
+    servlet:
+      context-path: /ui
+    session:
+      cookie:
+        name: UISESSION
+security:
+  basic:
+    enabled: false
+  oauth2:
+    client:
+      clientId: 0oagyc4vno75B4pDI0h7
+      clientSecret: dTEmL1FPMaKDeO5XJOhNM6Cufj0k4XlX9tsSK9rD
+      accessTokenUri: https://dev-778719.oktapreview.com/oauth2/default/v1/authorize
+      userAuthorizationUri: https://dev-778719.oktapreview.com/oauth2/default/v1/token
+    resource:
+      userInfoUri: https://dev-778719.oktapreview.com/oauth2/default/v1/userinfo
+spring:
+  thymeleaf:
+    cache: false        
